@@ -11,6 +11,7 @@ function countDigits(num) {
     num = Math.floor(num / 10);
     count++;
   }
+  
   return count;
 }
 
